@@ -1,0 +1,9 @@
+{
+  "name": "Learn-Typescript-Chain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a Blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/flower1465/Type-Chain.git",
+  "author": "Seung jun <poodle2405@gmail.com>",
+  "license": "MIT"
+}
