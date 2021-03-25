@@ -1,9 +1,13 @@
 {
-  "name": "Learn-Typescript-Chain",
+  "name": "typechain",
   "version": "1.0.0",
-  "description": "Learning Typescript by making a Blockchain with it",
+  "description": "Learnig typescript by making a blockchain",
   "main": "index.js",
   "repository": "https://github.com/flower1465/Type-Chain.git",
   "author": "Seung jun <poodle2405@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.ts",
+    "prestart": "tsc"
+  }
 }
