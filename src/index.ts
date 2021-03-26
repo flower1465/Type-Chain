@@ -1,9 +1,3 @@
-interface Human {
-  name: string;
-  age: number;
-  gender: string;
-}
-
 const person = {
   name: "seung jun",
   age: 18,
