@@ -1,1 +1,1 @@
-Type-Chain
+Learn Type-Chain
