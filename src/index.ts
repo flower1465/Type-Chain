@@ -15,7 +15,7 @@ class Block {
     typeof aBlock.previousHash === "string" &&
     typeof aBlock.timestamp === "number" &&
     typeof aBlock.data === "string";
-
+  public qudtls: string;
   public index: number;
   public hash: string;
   public previousHash: string;
