@@ -15,11 +15,15 @@ class Block {
     typeof aBlock.previousHash === "string" &&
     typeof aBlock.timestamp === "number" &&
     typeof aBlock.data === "string";
+<<<<<<< HEAD
 <<<<<<< bfcbaeb2394060d26c8c8f01265ecb685f17e69c
 
 =======
   
 >>>>>>> UPDATE
+=======
+  
+>>>>>>> master
   public index: number;
   public hash: string;
   public previousHash: string;
