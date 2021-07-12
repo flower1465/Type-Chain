@@ -1,1 +1,1 @@
-Learn Type-Chain
+Type Chains Learned From Watching Nomad Coders
